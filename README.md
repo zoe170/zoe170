@@ -62,7 +62,7 @@ J’adore également le **graphisme**, la **création visuelle** et le **web des
 
 - ✏️ Développement de mon portfolio  
 - 🎨 Créations graphiques pour les réseaux sociaux  
-- 💻 Apprentissage du JavaScript  
+- 💻 Apprentissage du JavaScript / PHP
 
 ---
 
