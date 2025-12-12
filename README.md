@@ -8,6 +8,12 @@
   Je gère l’interface du site web ainsi que la communication sur les réseaux sociaux.
 </p>
 
+---
+
+## 🔗 Me contacter
+
+📧 **Mail :** boninguezoe@gmail.com  
+👉 **LinkedIn :** [https://www.linkedin.com/in/zoé-boningue-a19978285/](https://www.linkedin.com/in/zo%C3%A9-boningue-a19978285/)
 
 ---
 
@@ -64,16 +70,6 @@ J’adore également le **graphisme**, la **création visuelle** et le **web des
 - ✏️ Développement de mon portfolio  
 - 🎨 Créations graphiques pour les réseaux sociaux  
 - 💻 Apprentissage du JavaScript / PHP
-
----
-
-## 🔗 Me retrouver
-
-👉 **LinkedIn :**  
-[https://www.linkedin.com/in/zoé-boningue-a19978285/](https://www.linkedin.com/in/zo%C3%A9-boningue-a19978285/)
-
-📧 **Mail :**  
-boninguezoe@gmail.com
 
 
 
