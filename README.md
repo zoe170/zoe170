@@ -20,6 +20,7 @@
 
 ### 2023 — 2024  
 **Diplôme universitaire d’Assistant Designer Graphique et Multimédia** – ULCO
+<br><br>
 Stage à la CCPO de Guînes.
 
 ### 2022 — 2023  
