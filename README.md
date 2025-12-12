@@ -13,7 +13,7 @@
 
 ## 🎓 Mon parcours
 
-### 2024 — 2026  
+**2024 — 2026**
 **DEUST Webmaster et Métiers de l’Internet** – ULCO, Calais
 
 ### 2023 — 2024  
