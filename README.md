@@ -20,6 +20,7 @@
 
 ### 2023 — 2024  
 **Diplôme universitaire d’Assistant Designer Graphique et Multimédia** – ULCO
+Stage à la CCPO de Guînes.
 
 ### 2022 — 2023  
 **Classe préparatoire design, animation 2D/3D & Game Art** – École RUBIKA, Valenciennes
