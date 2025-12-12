@@ -7,8 +7,6 @@
   💼 <em>Actuellement en alternance chez Meubles Flahaut (Saint-Léonard)</em><br>
   Je gère l’interface du site web ainsi que la communication sur les réseaux sociaux.
   <br><br>
-
-<h1 align="center">Contact</h1>
   
   📧 <strong>Mail :</strong> boninguezoe@gmail.com<br>
   👉 <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/zoé-boningue-a19978285/">https://www.linkedin.com/in/zoé-boningue-a19978285/</a>
