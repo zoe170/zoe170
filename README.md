@@ -19,9 +19,8 @@
 **DEUST Webmaster et Métiers de l’Internet** – ULCO, Calais
 
 ### 2023 — 2024  
-**Diplôme universitaire d’Assistant Designer Graphique et Multimédia** – ULCO
-<br><br>
-Stage à la CCPO de Guînes.
+**Diplôme universitaire d’Assistant Designer Graphique et Multimédia** – ULCO, Calais
+
 
 ### 2022 — 2023  
 **Classe préparatoire design, animation 2D/3D & Game Art** – École RUBIKA, Valenciennes
