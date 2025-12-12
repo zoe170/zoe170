@@ -1,4 +1,4 @@
-## align="center">👋 Salut, moi c’est Zoé !##
+##👋 Salut, moi c’est Zoé !##
 
 <p align="center">
   <strong>20 ans • Étudiante en DEUST Webmaster & Métiers de l’Internet</strong><br>
